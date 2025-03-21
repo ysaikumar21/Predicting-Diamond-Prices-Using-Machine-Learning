@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 import plotly
 import sklearn
-import tensorflow
 import gdown
 import os
 
